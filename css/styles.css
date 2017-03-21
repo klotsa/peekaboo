@@ -1,0 +1,40 @@
+.walrus-showing {
+display: none;
+height: 50%;
+width: 50%;
+}
+
+
+.clickable {
+  cursor: pointer;
+  color: blue;
+}
+
+
+.clickable:hover {
+    text-decoration: underline;
+}
+
+.showing {
+display: none;
+height: 50%;
+width: 50%;
+}
+
+
+.click {
+  cursor: pointer;
+  color: red;
+}
+
+.slide-down{
+  cursor: pointer;
+  color: red;
+}
+
+
+.slide-up {
+display: none;
+height: 50%;
+width: 50%;
+}
